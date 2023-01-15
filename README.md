@@ -8,7 +8,7 @@ I've been learning code for 5 years.I started with C/C++ and actually i'm into b
 
 * 🌍  I'm based in Italy
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Blockchain,AI,Arduino project and C++ library
+* 🤝  I'm into Blockchain,AI,Arduino project and C++ library
 
 ### Skills
 

@@ -4,10 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering student
 ----------------------------
 
-I've been learning code for 6 years.I started with C/C++ and actually i'm into blockchain development. I have had experience with backend and frontend, especially with SQL databases.
 
-* 🌍  I'm based in Italy
-* 🧠  I'm learning Python
+* 🌍   Italy
 
 ### Skills
 

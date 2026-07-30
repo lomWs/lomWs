@@ -15,12 +15,9 @@ I enjoy designing and building solutions that combine hardware and software to s
 
 - 🎓 Bachelor's student in Computer Engineering
 - 🤖 Specializing in Robotics and Automation Engineering
-- 🌍 Based in Italy 🇮🇹
 - 💻 Passionate about software development, robotics, embedded systems, and automation
 - 🦾 Interested in robotics, autonomous systems, control systems, and industrial automation
 - 🧠 Exploring Artificial Intelligence, Computer Vision, and Machine Learning
-- 🌱 Currently improving my skills in ROS 2, MATLAB/Simulink, and robot simulation
-- 🚀 Always looking for opportunities to learn, collaborate, and build meaningful projects
 
 ---
 

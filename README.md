@@ -85,14 +85,6 @@ I enjoy designing and building solutions that combine hardware and software to s
 
 </p>
 
-**Technologies:**
-
-- ⚙️ ROS 2 (Robot Operating System)
-- 🌐 Gazebo Robot Simulation
-- 📐 MATLAB
-- 🔧 Simulink
-- 🐧 Linux Environment
-
 
 ## 🗄️ Database
 
